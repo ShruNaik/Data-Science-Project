@@ -1,3 +1,4 @@
+college,State,region
 Alaska Pacific University,AK,South Central
 University of Alaska Fairbanks,AK,South Central
 University of Alaska Southeast,AK,Southeast
@@ -783,12 +784,10 @@ Goldey-Beacom College,DE,Wilmington City
 University of Delaware,DE,Kent
 Wesley College,DE,Kent
 Delaware Technical Community College - Owens Campus,DE,Kent
-Wilmington University,DE,"New Castle
-(excluding Wilmington City)"
+Wilmington University,DE,"New Castle(excluding Wilmington City)"
 Delaware Technical Community College,DE,Wilmington City
 Delaware Technical Community College,DE,Sussex
-Schilling - Douglas School of Hair Design,DE,"New Castle
-(excluding Wilmington City)"
+Schilling - Douglas School of Hair Design,DE,"New Castle(excluding Wilmington City)"
 Harris School of Business,DE,Kent
 Delaware College of Art and Design,DE,Wilmington City
 Barry University,FL,Circuit 14
@@ -1438,7 +1437,7 @@ Manhattan Christian College,KS,Kansas City Metro
 McPherson College,KS,Kansas City Metro
 Neosho County Community College,KS,Southeast
 Ottawa University,KS,West
-Pratt ç College,KS,West
+Pratt ̤ College,KS,West
 Newman University,KS,South Central
 Southwestern College,KS,South Central
 University of Saint Mary,KS,South Central
@@ -1712,8 +1711,8 @@ Allegany College of Maryland,MD,West
 Anne Arundel Community College,MD,West
 Baltimore City Community College,MD,Montgomery
 Bowie State University,MD,Montgomery
-Community College of Baltimore County,MD,Prince George’s
-College of Southern Maryland,MD,Prince George’s
+Community College of Baltimore County,MD,Prince George�۪s
+College of Southern Maryland,MD,Prince George�۪s
 Notre Dame of Maryland University,MD,North Central
 Washington Adventist University,MD,North Central
 Coppin State University,MD,North Central
@@ -1731,8 +1730,8 @@ Mount Saint Mary's University,MD,West
 Ner Israel Rabbinical College,MD,West
 Prince George's Community College,MD,Montgomery
 Salisbury University,MD,Montgomery
-St. John's College,MD,Prince George’s
-Saint Mary's College of Maryland,MD,Prince George’s
+St. John's College,MD,Prince George�۪s
+Saint Mary's College of Maryland,MD,Prince George�۪s
 Towson University,MD,North Central
 University of Baltimore,MD,North Central
 "University of Maryland, College Park",MD,North Central
@@ -1750,8 +1749,8 @@ Howard Community College,MD,West
 Cecil College,MD,West
 Garrett College,MD,Montgomery
 Fortis Institute,MD,Montgomery
-TESST College of Technology,MD,Prince George’s
-University of Maryland University College,MD,Prince George’s
+TESST College of Technology,MD,Prince George�۪s
+University of Maryland University College,MD,Prince George�۪s
 Wor-Wic Community College,MD,North Central
 TESST College of Technology,MD,North Central
 Sojourner-Douglass College,MD,North Central
@@ -1769,7 +1768,7 @@ Maple Springs Baptist Bible College & Seminary,MD,West
 Yeshiva College of the Nation's Capital,MD,West
 Hair Expressions Academy,MD,Montgomery
 Temple (The): A Paul Mitchell Partner School,MD,Montgomery
-Bais HaMedrash and Mesivta of Baltimore,MD,Prince George’s
+Bais HaMedrash and Mesivta of Baltimore,MD,Prince George�۪s
 University of Maine - Presque Isle,ME,Downeast
 Bates College,ME,Downeast
 Bowdoin College,ME,Downeast
